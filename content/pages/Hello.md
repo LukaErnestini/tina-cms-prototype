@@ -1,7 +1,7 @@
 ---
-title: Hello
+title: Hello!
 body: |
-  some body **lelele**
+  some body **lelele. This was edited from TinaCMS**
 blocks:
   - message: |
       some message, Welcome hero
